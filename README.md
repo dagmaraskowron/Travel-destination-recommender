@@ -119,7 +119,7 @@ Wyodrębniono cztery grupy kierunków:
 
 ## PCA
 
-Do wizualizacji klastrów wykorzystano metodę Principal Component Analysis.
+Do wizualizacji klastrów wykorzystano metodę PCA.
 
 Pierwsze dwie składowe główne wyjaśniają łącznie około 67,1% wariancji danych.
 
