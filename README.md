@@ -205,12 +205,6 @@ Rekomendowane kierunki są również prezentowane na interaktywnej mapie, co poz
 ![Mapa rekomendacji](images/app_map.png)
 
 
-### Uruchomienie aplikacji
-
-```bash
-streamlit run app/app.py
-```
-
 ## Technologie
 
 - Python
